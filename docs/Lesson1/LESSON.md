@@ -9,6 +9,7 @@
 ## 🏋️‍♀️ Steps :
 
 1. Create a new nest application called 'coffee-guide'
+2. Start the application in dev mode
 
 ---
 
