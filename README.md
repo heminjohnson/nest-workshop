@@ -1,4 +1,4 @@
-# Nest Workshop
+# Nest Workshop - Build a Pet Store
 
 ### Pre-requisites
 
@@ -18,5 +18,7 @@
 
 Each lesson will contain a link to the next one. Start from **"Lesson 1"** and move through them as required.
 
-| [Lesson 1 - Test](docs/Lesson1/LESSON.md) | <br />
-| [Lesson 2 - Test](docs/Lesson2/LESSON.md) |
+| Lessons                                                                     |
+|-----------------------------------------------------------------------------|
+| [Lesson 1 - Test](docs/Lesson1/LESSON.md) - Generate a boiler plate project |
+| [Lesson 2 - Test](docs/Lesson2/LESSON.md) - Description                     |
