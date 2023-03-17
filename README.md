@@ -1,24 +1,23 @@
-# Nest Workshop - Build a Pet Store
+# Nest Workshop - Build a Coffee Guide Application
 
 ### Pre-requisites
 
-- Node.js version 16
-    - `node --version`
-- Npm
-    - `npm --version`
-- A Github account
-    - http://github.com
+1. node.js version 16 - `node --version`
+2. npm version 8 - `npm --version`
+3. @nestjs/cli version 9 - `nest --version` 
 
 ### Optional
 
-- [Docker](https://www.docker.com/get-started)
-    - `docker --version`
+1. Docker version 20 - `docker --version`
 
-### Lessons
+### Reference
 
-Each lesson will contain a link to the next one. Start from **"Lesson 1"** and move through them as required.
+1. https://nestjs.com/
+2. https://docs.nestjs.com/
 
-| Lessons                                                                     |
-|-----------------------------------------------------------------------------|
-| [Lesson 1 - Test](docs/Lesson1/LESSON.md) - Generate a boiler plate project |
-| [Lesson 2 - Test](docs/Lesson2/LESSON.md) - Description                     |
+<br><br>
+
+
+| Lessons                                                                    |
+|----------------------------------------------------------------------------|
+| [Lesson 1](docs/Lesson1/LESSON.md) - Generate our first NestJS application |
