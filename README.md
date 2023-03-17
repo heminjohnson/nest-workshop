@@ -4,7 +4,8 @@
 
 1. node.js version 16 - `node --version`
 2. npm version 8 - `npm --version`
-3. @nestjs/cli version 9 - `nest --version` 
+3. @nestjs/cli version 9 - `nest --version`
+4. Insomnia / Postman
 
 ### Optional
 
