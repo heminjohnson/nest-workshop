@@ -30,6 +30,8 @@
 | [Lesson 5](docs/Lesson5/LESSON.md) - (WIP) Handle request body             |
 | [Lesson 6](docs/Lesson6/LESSON.md) - (WIP) Add response status codes       |
 
+<br>
+
 | Lessons (PART 2) (WIP)                                                                |
 |---------------------------------------------------------------------------------------|
 | [Lesson 7](docs/Lesson7/LESSON.md) - (WIP) Handle update and delete requests          |
