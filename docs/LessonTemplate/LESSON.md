@@ -1,11 +1,11 @@
-# 💻 Lesson #number - Description
+# 💻 Lesson 1 - Description
 
 ###### ⏰ Estimated time: 5-10 minutes
 
-## 📚 Learning outcomes:
+## 📚 Reference:
 
-1. Description 1 
-2. Description 2
+1. Reference 1 
+2. Reference 2
 
 ## 🏋️‍♀️ Steps :
 
