@@ -6,6 +6,8 @@
 2. npm version 8 - `npm --version`
 3. @nestjs/cli version 9 - `nest --version`
 4. Insomnia / Postman
+5. Read Introduction from NestJS doc - https://docs.nestjs.com/#introduction
+6. Read Philosophy from NestJS doc - https://docs.nestjs.com/#philosophy
 
 ### Optional
 
@@ -22,3 +24,8 @@
 | Lessons                                                                    |
 |----------------------------------------------------------------------------|
 | [Lesson 1](docs/Lesson1/LESSON.md) - Generate our first NestJS application |
+| [Lesson 2](docs/Lesson2/LESSON.md) - (WIP) Create a health endpoint        |
+| [Lesson 3](docs/Lesson3/LESSON.md) - (WIP) Create coffees controller       |
+| [Lesson 4](docs/Lesson4/LESSON.md) - (WIP) Add a route parameter           |
+| [Lesson 5](docs/Lesson5/LESSON.md) - (WIP) Handle request body             |
+| [Lesson 6](docs/Lesson6/LESSON.md) - (WIP) Add response status codes       |
