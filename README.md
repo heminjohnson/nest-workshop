@@ -21,7 +21,7 @@
 <br><br>
 
 
-| Lessons                                                                    |
+| Lessons (PART 1)                                                           |
 |----------------------------------------------------------------------------|
 | [Lesson 1](docs/Lesson1/LESSON.md) - Generate our first NestJS application |
 | [Lesson 2](docs/Lesson2/LESSON.md) - (WIP) Create a health endpoint        |
@@ -29,3 +29,8 @@
 | [Lesson 4](docs/Lesson4/LESSON.md) - (WIP) Add a route parameter           |
 | [Lesson 5](docs/Lesson5/LESSON.md) - (WIP) Handle request body             |
 | [Lesson 6](docs/Lesson6/LESSON.md) - (WIP) Add response status codes       |
+
+| Lessons (PART 2) (WIP)                                                                |
+|---------------------------------------------------------------------------------------|
+| [Lesson 7](docs/Lesson7/LESSON.md) - (WIP) Handle update and delete requests          |
+| [Lesson 8](docs/Lesson8/LESSON.md) - (WIP) Implement pagination with query parameters |
