@@ -24,7 +24,7 @@
 | Lessons (PART 1)                                                           |
 |----------------------------------------------------------------------------|
 | [Lesson 1](docs/Lesson1/LESSON.md) - Generate our first NestJS application |
-| [Lesson 2](docs/Lesson2/LESSON.md) - (WIP) Create a health endpoint        |
+| [Lesson 2](docs/Lesson2/LESSON.md) - Create a health endpoint              |
 | [Lesson 3](docs/Lesson3/LESSON.md) - (WIP) Create coffees controller       |
 | [Lesson 4](docs/Lesson4/LESSON.md) - (WIP) Add a route parameter           |
 | [Lesson 5](docs/Lesson5/LESSON.md) - (WIP) Handle request body             |
