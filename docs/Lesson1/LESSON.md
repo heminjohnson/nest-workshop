@@ -17,4 +17,4 @@
 
 ---
 
-[➡️ Next lesson ➡️](../lesson2/LESSON.md)
+[➡️ Next lesson ➡️](../Lesson2/LESSON.md)

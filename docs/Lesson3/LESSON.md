@@ -18,4 +18,4 @@
 
 ---
 
-[➡️ Next lesson ➡️](../lesson4/LESSON.md)
+[➡️ Next lesson ➡️](../Lesson4/LESSON.md)
