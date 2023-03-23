@@ -4,7 +4,7 @@
 
 ## 📚 Reference:
 
-2. https://docs.nestjs.com/controllers#route-parameters
+1. https://docs.nestjs.com/controllers#route-parameters
 
 ## 🏋️‍♀️ Steps :
 
