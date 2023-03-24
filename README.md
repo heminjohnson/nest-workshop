@@ -9,6 +9,7 @@
 5. Read Introduction from NestJS doc (1 min.) - https://docs.nestjs.com/#introduction
 6. Read Philosophy from NestJS doc (1 min.) - https://docs.nestjs.com/#philosophy
 7. Basic understanding of REST APIs (6 min.) - https://www.youtube.com/watch?v=-mN3VyJuCjM&ab_channel=ByteByteGo
+8. This workshop has been developed using macOS. If you are using a different operating system, not all solutions mentioned in the lessons may work as intended.
 
 ### Optional Pre-requisites (Required from PART 2)
 
