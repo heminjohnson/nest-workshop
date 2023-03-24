@@ -1,4 +1,4 @@
-# 💻 Lesson 5 - Handle request body
+# 💻 Lesson 6 - Handle update and delete requests
 
 ###### ⏰ Estimated time: 1-5 minutes
 
@@ -8,7 +8,7 @@
 
 ## 🏋️‍♀️ Steps :
 
-1. Create a method create() in coffees controller that accepts a POST request on coffees and returns the body
+1. Copy and paste [the solution](SOLUTION.md) as it is similar to the previous lesson 
 
 ---
 
@@ -16,4 +16,4 @@
 
 ---
 
-[➡️ Next lesson ➡️](../Lesson6/LESSON.md)
+[➡️ Next lesson ➡️](../Lesson7/LESSON.md)

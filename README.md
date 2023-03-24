@@ -28,7 +28,7 @@
 | [Lesson 3](docs/Lesson3/LESSON.md) - Create coffees controller             |
 | [Lesson 4](docs/Lesson4/LESSON.md) - Add a route parameter                 |
 | [Lesson 5](docs/Lesson5/LESSON.md) - Handle request body                   |
-| [Lesson 6](docs/Lesson6/LESSON.md) - (WIP) Add response status codes       |
+| [Lesson 6](docs/Lesson6/LESSON.md) - Handle update and delete requests     |
 
 <br>
 
