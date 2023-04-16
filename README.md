@@ -32,7 +32,7 @@
 | [Lesson 5](docs/Lesson5/LESSON.md) - Handle request body                                    |
 | [Lesson 6](docs/Lesson6/LESSON.md) - Handle update and delete requests                      |
 | [Lesson 7](docs/Lesson7/LESSON.md) - Implement pagination with query parameters             |
-| [Lesson 8](docs/Lesson8/LESSON.md) - (WIP) Creating a basic service                         |
+| [Lesson 8](docs/Lesson8/LESSON.md) - Creating a basic service                               |
 | [Lesson 9](docs/Lesson9/LESSON.md) - (WIP) Send user friendly error messages                |
 | [Lesson 10](docs/Lesson10/LESSON.md) - (WIP) Encompass business domain in modules           |
 | [Lesson 11](docs/Lesson11/LESSON.md) - (WIP) Validate input data with data transfer objects |
