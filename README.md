@@ -34,7 +34,7 @@
 | [Lesson 7](docs/Lesson7/LESSON.md) - Implement pagination with query parameters             |
 | [Lesson 8](docs/Lesson8/LESSON.md) - Creating a basic service                               |
 | [Lesson 9](docs/Lesson9/LESSON.md) - Send user friendly error messages                      |
-| [Lesson 10](docs/Lesson10/LESSON.md) - (WIP) Encompass business domain in modules           |
+| [Lesson 10](docs/Lesson10/LESSON.md) - Encompass business domain in modules                 |
 | [Lesson 11](docs/Lesson11/LESSON.md) - (WIP) Validate input data with data transfer objects |
 | [Lesson 12](docs/Lesson12/LESSON.md) - (WIP) Handling malicious request data                |
 | [Lesson 13](docs/Lesson13/LESSON.md) - (WIP) Auto transform payloads to DTO instances       |
