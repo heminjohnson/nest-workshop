@@ -23,21 +23,22 @@
 
 ### Lessons
 
-| Lessons (PART 1)                                                                            |
-|---------------------------------------------------------------------------------------------|
-| [Lesson 1](docs/Lesson1/LESSON.md) - Generate our first NestJS application                  |
-| [Lesson 2](docs/Lesson2/LESSON.md) - Create a health endpoint                               |
-| [Lesson 3](docs/Lesson3/LESSON.md) - Create coffees controller                              |
-| [Lesson 4](docs/Lesson4/LESSON.md) - Add a route parameter                                  |
-| [Lesson 5](docs/Lesson5/LESSON.md) - Handle request body                                    |
-| [Lesson 6](docs/Lesson6/LESSON.md) - Handle update and delete requests                      |
-| [Lesson 7](docs/Lesson7/LESSON.md) - Implement pagination with query parameters             |
-| [Lesson 8](docs/Lesson8/LESSON.md) - Creating a basic service                               |
-| [Lesson 9](docs/Lesson9/LESSON.md) - Send user friendly error messages                      |
-| [Lesson 10](docs/Lesson10/LESSON.md) - Encompass business domain in modules                 |
-| [Lesson 11](docs/Lesson11/LESSON.md) - (WIP) Validate input data with data transfer objects |
-| [Lesson 12](docs/Lesson12/LESSON.md) - (WIP) Handling malicious request data                |
-| [Lesson 13](docs/Lesson13/LESSON.md) - (WIP) Auto transform payloads to DTO instances       |
+| Lessons (PART 1)                                                                      |
+|---------------------------------------------------------------------------------------|
+| [Lesson 1](docs/Lesson1/LESSON.md) - Generate our first NestJS application            |
+| [Lesson 2](docs/Lesson2/LESSON.md) - Create a health endpoint                         |
+| [Lesson 3](docs/Lesson3/LESSON.md) - Create coffees controller                        |
+| [Lesson 4](docs/Lesson4/LESSON.md) - Add a route parameter                            |
+| [Lesson 5](docs/Lesson5/LESSON.md) - Handle request body                              |
+| [Lesson 6](docs/Lesson6/LESSON.md) - Handle update and delete requests                |
+| [Lesson 7](docs/Lesson7/LESSON.md) - Implement pagination with query parameters       |
+| [Lesson 8](docs/Lesson8/LESSON.md) - Creating a basic service                         |
+| [Lesson 9](docs/Lesson9/LESSON.md) - Send user friendly error messages                |
+| [Lesson 10](docs/Lesson10/LESSON.md) - Encompass business domain in modules           |
+| [Lesson 11](docs/Lesson11/LESSON.md) - Create data transfer objects                   |
+| [Lesson 12](docs/Lesson11/LESSON.md) - Validate input data with data transfer objects |
+| [Lesson 13](docs/Lesson12/LESSON.md) - (WIP) Handling malicious request data          |
+| [Lesson 14](docs/Lesson13/LESSON.md) - (WIP) Auto transform payloads to DTO instances |
 
 <br>
 
