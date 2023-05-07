@@ -5,7 +5,6 @@
 ## 📚 Reference:
 
 1. https://docs.nestjs.com/techniques/validation#stripping-properties
-2. 
 
 ## 🏋️‍♀️ Steps :
 

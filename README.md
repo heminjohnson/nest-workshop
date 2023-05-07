@@ -38,10 +38,10 @@
 | [Lesson 11](docs/Lesson11/LESSON.md) - Create data transfer objects                   |
 | [Lesson 12](docs/Lesson12/LESSON.md) - Validate input data with data transfer objects |
 | [Lesson 13](docs/Lesson13/LESSON.md) - Handling malicious request data                |
-| [Lesson 14](docs/Lesson14/LESSON.md) - (WIP) Auto transform payloads to DTO instances |
+| [Lesson 14](docs/Lesson14/LESSON.md) - Auto transform payloads to DTO instances       |
 
 <br>
 
 | Lessons (PART 2) (WIP)                                           |
 |------------------------------------------------------------------|
-| [Lesson 14](docs/Lesson14/LESSON.md) - (WIP) Running PostgresSQL |
+| [Lesson 15](docs/Lesson15/LESSON.md) - (WIP) Running PostgresSQL |
