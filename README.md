@@ -36,9 +36,9 @@
 | [Lesson 9](docs/Lesson9/LESSON.md) - Send user friendly error messages                |
 | [Lesson 10](docs/Lesson10/LESSON.md) - Encompass business domain in modules           |
 | [Lesson 11](docs/Lesson11/LESSON.md) - Create data transfer objects                   |
-| [Lesson 12](docs/Lesson11/LESSON.md) - Validate input data with data transfer objects |
-| [Lesson 13](docs/Lesson12/LESSON.md) - (WIP) Handling malicious request data          |
-| [Lesson 14](docs/Lesson13/LESSON.md) - (WIP) Auto transform payloads to DTO instances |
+| [Lesson 12](docs/Lesson12/LESSON.md) - Validate input data with data transfer objects |
+| [Lesson 13](docs/Lesson13/LESSON.md) - (WIP) Handling malicious request data          |
+| [Lesson 14](docs/Lesson14/LESSON.md) - (WIP) Auto transform payloads to DTO instances |
 
 <br>
 
